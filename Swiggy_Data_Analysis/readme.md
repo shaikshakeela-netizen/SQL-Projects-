@@ -159,4 +159,6 @@ SELECT AVG(rating) AS avg_rating FROM fact_swiggy_orders;
 **Shakeela Shaik**
 
 ---
+<img width="1360" height="775" alt="Screenshot 2026-04-30 205842" src="https://github.com/user-attachments/assets/0f4e5d1f-5734-4ee0-ad70-86b8beebf93f" />
+
 
